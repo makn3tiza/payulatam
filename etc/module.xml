@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!--
+/**
+* @copyright Copyright (c) 2017 makn3tiza. (https://www.makn3tiza.com)
+*/
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="makn3tiza_Payulatam" setup_version="0.0.1">
+    </module>
+</config>
