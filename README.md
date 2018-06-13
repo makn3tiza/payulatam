@@ -28,6 +28,4 @@ From the command line in magento root:
 composer require makn3tiza/magento2-payulatam
 php bin/magento setup:upgrade
 php bin/magento setup:di:compile
-```
-
-More Information:  https://www.makn3tiza.com
+``
