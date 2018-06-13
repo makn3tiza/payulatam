@@ -1,5 +1,5 @@
 {
-  "name": "makn3tiza/magento2-payulatam",
+  "name": "makn3tiza/payulatam",
   "description": "PayuLatam integration for Magento 2.x.x",
   "require": {
     "php": ">=7.0.0",
